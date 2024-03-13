@@ -1,0 +1,4 @@
+Firmware/build/*.o
+Firmware/build/*.d
+Firmware/build/*.lst
+Firmware/build/*.map
