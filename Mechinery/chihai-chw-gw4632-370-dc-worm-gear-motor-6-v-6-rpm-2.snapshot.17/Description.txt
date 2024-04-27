@@ -1,0 +1,16 @@
+Chihai CHW-GW4632-370, DC Worm Gear Motor, 6 V, 6 RPM
+
+Link to CAD model:
+https://grabcad.com/library/chihai-chw-gw4632-370-dc-worm-gear-motor-6-v-6-rpm-2
+
+#CAD #SolidWorks #3dmodel #CHWGW4632370 #DCWormGearMotor #DCgearedmotor #machinedesign
+
+This version has a nominal rated rpm of 4 rpm and no load rpm of 6 rpm. Stall torque claims to be 30 kg.cm for 6V, 6 RPM version.
+
+Buy Links:
+https://www.aliexpress.us/item/2251832634327413.html
+
+I would take these load ratings with a grain of salt. They may not be rated for what they actually claim to be. I have a similar model of TSINY DC GEARED motor I uploaded and two of them have broken on me without even going through a quarter of the stall torque load that they are rated for. It's 6V, 1 rpm.
+
+The link is here:
+https://grabcad.com/library/ts-32gz370-5300-geared-dc-motor-6v-1-rpm-37-5-kg-cm-1
