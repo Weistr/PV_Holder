@@ -3,7 +3,11 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/Firmware/Core/Inc",
+                "${workspaceFolder}/Firmware/Drivers/STM32F1xx_HAL_Driver/Inc",
+                "${workspaceFolder}/Firmware/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/Firmware/Drivers/CMSIS/Device/ST/STM32F1xx/Include",
+                "${workspaceFolder}/Firmware/Drivers/CMSIS/Include"
             ],
             "defines": [
                 "_DEBUG",
@@ -13,7 +17,8 @@
                 "STM32F103xB"
             ],
             "compilerPath": "C:/Tools/mingw64/mingw64/bin/gcc.exe",
-            "intelliSenseMode": "gcc-arm"
+            "intelliSenseMode": "gcc-arm",
+            "cStandard": "c99"
         }
     ],
     "version": 4
